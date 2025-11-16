@@ -1,0 +1,49 @@
+tartalmi elemek
+---
+fejléc képe: csik.jpg - új ablakban nyílik: csik_nagy.jpg
+menüpontok:
+A bandy története - tortenet.html
+A bandy szabályai - szabalyok.html
+Magyar bandy szövetség - új ablakban: http://bandy.hu/
+Wiki oldal - új ablakban: https://hu.wikipedia.org/wiki/J%C3%A9glabda
+címek: 1-es szintű címsor
+történet oldal:
+"Bury Fen Bandy Club" szöveg kiemelve
+Nemzetközi Bandy Szövetség - új ablakban: https://www.worldbandy.com/
+gorog.gif
+szabályok oldal:
+felsorolás szimbólummal,
+megnevezések kiemelve
+jatekos.jpg
+
+________________________________________________________________
+
+külső stílus
+---
+teljes megjelenés
+háttér szürke
+betűtípus Verdana
+tartalommal befoglalt rész
+háttér világos szürke
+szélesség 800 képpont
+belső margó minta szerint
+fejléc képe
+100% kitöltés
+menü
+háttér fekete
+kiskapitális betűk
+belső margó minta szerint
+menü hivatkozás
+nincs aláhúzás
+csak amikor a szövegre állunk az egérrel
+szöveges tartalmi rész
+címsor igazítása: középen
+bekezdések igazítása: sorkizárt
+
+belső stílus
+---
+szabályok oldalon a felsorolásjel karika
+
+sorközi stílus
+---
+képek igazítása minta szerint
