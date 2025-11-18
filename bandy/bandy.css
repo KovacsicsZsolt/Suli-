@@ -21,6 +21,12 @@ header {
 .navi {
     color: rgb(255, 255, 255);
     font-variant: small-caps;
+    border-left: 2px solid rgb(255, 255, 255);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav a:last-child {
+    border-right: 2px solid rgb(255, 255, 255);
 }
 h1 {
     text-align: center;
