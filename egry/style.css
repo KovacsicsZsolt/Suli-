@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(128, 0, 0);
+}
+.egry {
+    background-color: rgb(255, 255, 224);
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    border: 4px ridge rgb(255, 255, 224);
+}
+.menu {
+    width: 20%;
+    text-align: center;
+    font-variant: small-caps;
+    border-right: 2px solid rgb(0, 0, 0);
+}
+a {
+    text-decoration: none;
+    color: rgb(128, 0, 0);
+}
+a:hover {
+    color: rgb(0, 0, 0);
+}
+.címsor {
+    text-align: center;
+    width: 100%;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.tartalom {
+    width: 95%;
+    font-size: 13px;
+    padding: 10px;
+}
+.fenykep {
+    float: left;
+    margin-right: 10px;
+    margin-top: 15px;
+    width: 160px;
+}
+.table {
+    width: 760px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 20px;
+    padding: 1px;
+}
+.tablacim {
+    background-color: rgb(128, 0, 0);
+}
+.table td {
+    font-size: 15px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 5px
+}
+.szivarvany {
+    text-align: center;
+}
+.szivarvany img {
+    width: 780px;
+    margin: 10px;
+}

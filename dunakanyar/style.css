@@ -1,0 +1,68 @@
+body {
+    background-color:  #0A6091;
+    font-family: Arial;
+}
+
+.body_div {
+    background-color: white;
+    width: 800px;
+    border: 5px solid #7BC0E8;
+    margin: 0 auto;
+
+}
+
+.header {
+    background-image: url(../dunakanyar/forrasok/dunakanyar.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+nav {
+    text-align: center;
+}
+
+#navigation .active {
+    color: black;
+    text-decoration: none;
+}
+
+h2 {
+    color: #0A6091;
+    text-align: center;
+}
+
+ul {
+    margin-top: 30px;
+}
+
+.left {
+    vertical-align: top;
+    width: 540px;
+    text-align: justify;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.right {
+    vertical-align: top;
+    display: inline-block;
+    height: 500px;
+    width: 200px;
+    border: 1px solid #7BC0E8;
+    margin-right: 25px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.right img {
+    height: 500px;
+    width: 200px;
+}
+
+.source {
+    text-align: center;
+}
